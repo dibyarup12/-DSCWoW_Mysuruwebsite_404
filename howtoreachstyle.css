@@ -15,9 +15,12 @@
 .logo{
   width: 100px;
   float:left;
+  height: 100px;
+
 }
 h1{
   padding: 80px;
+  
 }
 .navbar-nav a {
   font-family: poppins;
@@ -64,3 +67,16 @@ img{
   width: 100%;
   height: 100%;
 }
+.footer{
+	padding: 100px 20px;
+	background-image: linear-gradient(#2d557d,#9610fb);
+	color: white;
+}
+ .footer h4{
+ 	text-align: right;
+ 	
+ }
+ .footer p{
+ 	text-align: justify;
+ 
+ }
